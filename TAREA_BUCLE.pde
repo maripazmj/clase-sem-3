@@ -1,3 +1,4 @@
+//Maria Paz Mojica, Repetición
 int incremento = 50;
 
 void setup() {
@@ -36,3 +37,4 @@ void draw() {
     }
   }
 }
+
